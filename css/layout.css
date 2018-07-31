@@ -51,3 +51,7 @@ img, video, audio {
   max-width: 100%;
   
 }
+
+#deals {
+  padding-top: 10px;
+}
