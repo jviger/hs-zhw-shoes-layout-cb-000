@@ -45,3 +45,9 @@
 .first {
   margin-left: 0%;
 }
+
+img, video, audio {
+  
+  max-width: 100%;
+  
+}
